@@ -2,4 +2,4 @@
 
 solr | description
 ---------|------------
- 5.4.0 | supported
+ 5.4.0+ | supported
